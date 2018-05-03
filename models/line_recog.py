@@ -5,7 +5,7 @@ import math
 
 # TODO do some dope annotations
 # TODO rename bad variable names(repetitive in CubeRecog3.py
-
+# This code is made to detect lines of a specific color and return their angels
 
 # check if a specific pixel is considered to be red
 def is_red(red, blue, green):
