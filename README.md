@@ -14,3 +14,5 @@ The most used color spacings in OpenCV are HSV and Grayscale
 * HSV is easier to work with compared with RGB especially when it comes to working with shadows, the hue for HSV stays the same while RGB has different values
 
 Edges are detected when there is a drop off between the values of the pixels
+
+#TODO: Make models with HSV and Grayscale instead of RGB
