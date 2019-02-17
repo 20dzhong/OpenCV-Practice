@@ -145,7 +145,7 @@ def find_line(name):
 
 
 # calls the function and return stuff
-cv2.imshow("IMAGE1", find_line("./test_image/line/Line1.jpg"))
+# cv2.imshow("IMAGE1", find_line("./test_image/line/Line1.jpg"))
 cv2.imshow("IMAGE2", find_line("./test_image/line/Line2.jpg"))
 cv2.imshow("IMAGE3", find_line("./test_image/line/Line3.jpg"))
 cv2.imshow("IMAGE4", find_line("./test_image/line/Line4.jpg"))
